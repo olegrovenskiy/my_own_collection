@@ -1,0 +1,4 @@
+---
+path: "/home/vagrant/1.txt"
+content: "Second"
+# defaults file for for_my_mudule

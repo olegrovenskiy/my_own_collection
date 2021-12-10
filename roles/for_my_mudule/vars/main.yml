@@ -1,0 +1,5 @@
+---
+path: '/home/vagrant/1.txt'
+content: 'Second'
+
+# vars file for for_my_mudule

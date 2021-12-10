@@ -1,0 +1,6 @@
+---
+- name: Single Rple
+  hosts: localhost
+  gather_facts: false
+  roles:
+    - for_my_mudule
